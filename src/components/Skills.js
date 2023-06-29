@@ -35,9 +35,10 @@ export const Skills = () => {
               <h2>Skills</h2>
               <p>
                 There are many programming languages in the world but i choose
-                these to improve my self in this competitive world. <br />
-                React, Flutter,FireBase, JavaScript, TypeScript, RiverPod, Dart,
-                NodeJs, MongoDB, C, Python, Java, NextJs
+                these to improve my self in this competitive Race. <br />
+                React, Flutter, FireBase, JavaScript, TypeScript, RiverPod,
+                Dart, NodeJs, MongoDB, C, Python, Java, NextJs, ExpressJs, CSS,
+                HTML, Figma, Git, Linux, Redux, Tailwind, Canva...
               </p>
               <Carousel
                 responsive={responsive}
@@ -58,6 +59,10 @@ export const Skills = () => {
                 </div>
                 <div className="item">
                   <img src={meter1} alt="Image" />
+                  <h5>React</h5>
+                </div>
+                <div className="item">
+                  <img src={meter1} alt="Image" />
                   <h5>Flutter</h5>
                 </div>
                 <div className="item">
@@ -66,7 +71,7 @@ export const Skills = () => {
                 </div>
                 <div className="item">
                   <img src={meter1} alt="Image" />
-                  <h5>React</h5>
+                  <h5>Git</h5>
                 </div>
                 <div className="item">
                   <img src={meter1} alt="Image" />

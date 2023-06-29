@@ -179,8 +179,8 @@ export const Projects = () => {
                   <h2>Projects</h2>
                   <p>
                     In project section, we have three tabs. The first tab
-                    features a React project, while the second tab showcases a
-                    Flutter and Riverpod project. The third tab presents a
+                    features a Flutter and Riverpod project, while the second
+                    tab showcases a React project. The third tab presents a
                     JavaScript project, highlighting my skills in FrontEnd and
                     BackEnd development and cross-platform mobile app
                     development.
