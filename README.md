@@ -4,12 +4,12 @@ Portfolio is a web application that showcases your portfolio in a visually appea
 
 ## Features 🚀
 
-- **Navigation**: A navigation bar is displayed at the top of the page to allow easy navigation between different sections of the portfolio.
-- **Banner**: A banner section is included to highlight important information or messages.
-- **Skills**: The skills section showcases your expertise and highlights the technologies or areas you specialize in.
-- **Projects**: The projects section presents your portfolio projects with detailed information and visuals.
-- **Contact**: The contact section includes a form where visitors can reach out to you. Messages can be sent directly from the website.
-- **Footer**: The footer section contains additional information such as links to your social media profiles or other relevant resources.
+- **Navigation** 🧭: A navigation bar is displayed at the top of the page to allow easy navigation between different sections of the portfolio.
+- **Banner** 🎉: A banner section is included to highlight important information or messages.
+- **Skills** 💪: The skills section showcases your expertise and highlights the technologies or areas you specialize in.
+- **Projects** 📂: The projects section presents your portfolio projects with detailed information and visuals.
+- **Contact** 📞: The contact section includes a form where visitors can reach out to you. Messages can be sent directly from the website.
+- **Footer** 👣: The footer section contains additional information such as links to your social media profiles or other relevant resources.
 
 ## Dependencies 📦
 
