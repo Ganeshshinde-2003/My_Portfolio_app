@@ -42,13 +42,6 @@ To get a local copy of the project up and running, follow these steps:
 3. Start the development server: `npm start`
 4. Open your web browser and visit: `http://localhost:3000`
 
-## Configuration ⚙️
-
-Before running the project, make sure to configure the necessary settings:
-
-- SMTP Server: Set up your SMTP server credentials in the server code (e.g., `server.js`) to enable email functionality.
-- API Endpoints: If you have backend APIs for the contact form or project data, update the necessary endpoint URLs in the relevant components.
-
 ## Deployment 🌐
 
 To deploy the application to a production environment, you can follow these general steps:
