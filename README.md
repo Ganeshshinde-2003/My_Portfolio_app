@@ -25,7 +25,8 @@ Portfolio is a web application that showcases your portfolio in a visually appea
 
 To get a local copy of the project up and running, follow these steps:
 
-1. Clone the repository: `git clone [<repository-url>](https://github.com/Ganeshshinde-2003/My_Portfolio_app.git)`
+1. Clone the repository:
+     `git clone https://github.com/Ganeshshinde-2003/My_Portfolio_app.git`
 2. Install the dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Open your web browser and visit: `http://localhost:3000`
