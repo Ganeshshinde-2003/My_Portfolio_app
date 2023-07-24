@@ -1,6 +1,6 @@
 # Portfolio🌟
 
-Portfolio is a web application that showcases your portfolio in a visually appealing and interactive manner. It is built using React and integrates with various libraries and frameworks to provide a seamless user experience.
+Portfolio is a web application that showcases your portfolio in a visually appealing and interactive manner. It is built using React and integrates with various libraries and frameworks to provide a seamless user experience..
 
 ## Features 🚀
 
